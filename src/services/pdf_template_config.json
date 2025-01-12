@@ -1,0 +1,32 @@
+{
+  "logo_path": "services/logo.png",
+  "fonts": {
+    "regular": "Arial",
+    "bold": "Arial-Bold"
+  },
+  "styles": {
+    "CustomNormal": {
+      "fontName": "Arial",
+      "fontSize": 10,
+      "leading": 12
+    },
+    "CustomHeading": {
+      "fontName": "Arial-Bold",
+      "fontSize": 12,
+      "leading": 14,
+      "alignment": 1
+    }
+  },
+  "margins": {
+    "left": 2,
+    "right": 2,
+    "top": 5,
+    "bottom": 2
+  },
+  "page_size": "A4",
+  "colors": {
+    "header_bg": "#283C5C",
+    "header_text": "#FFFFFF",
+    "row_alternate_bg": "#F8F8F8"
+  }
+}
